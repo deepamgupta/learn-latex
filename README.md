@@ -1,4 +1,4 @@
-### Learn LaTex with Michelle Krummel
+### Learn LaTex with [Michelle Krummel](http://mrskrummel.com/resume.html)
 
 **Youtube Playlist** :- [LaTeX Tutorials (featuring Texmaker)](https://youtube.com/playlist?list=PL1D4EAB31D3EBC449)
 
@@ -12,5 +12,11 @@
   - Log Functions
   - Root 
   - Fractions
+- **LaTeX Tutorial 3  Brackets Tables and Arrays**
+  - Brackets
+  - Equations 
+  - Tables 
+  - Align
+  - Arrays
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
