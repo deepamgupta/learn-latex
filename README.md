@@ -18,5 +18,11 @@
   - Tables 
   - Align
   - Arrays
+- **LaTeX Tutorial 4  Creating Lists**
+  - Lists
+  - Nested Lists
+  - Numbered Lists
+  - Bulleted Lists
+  - Customized Lists
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
