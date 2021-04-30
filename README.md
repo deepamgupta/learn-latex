@@ -1,4 +1,4 @@
-### Learn LaTex with [Michelle Krummel](http://mrskrummel.com/resume.html)
+### Learn LaTex with [Michelle Krummel](http://michellekrummel.com/resume.html)
 
 **Youtube Playlist** :- [LaTeX Tutorials (featuring Texmaker)](https://youtube.com/playlist?list=PL1D4EAB31D3EBC449)
 
@@ -24,5 +24,11 @@
   - Numbered Lists
   - Bulleted Lists
   - Customized Lists
+- **LaTeX Tutorial 5  Text and Document Formatting**
+  - Italicized
+  - Bold
+  - Font size
+  - Create sectios and subsections
+  - Organize with table of contents
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
