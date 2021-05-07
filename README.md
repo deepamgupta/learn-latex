@@ -30,5 +30,9 @@
   - Font size
   - Create sectios and subsections
   - Organize with table of contents
+- **LaTeX Tutorial 6 Packages Macros and Graphics**
+  - Using packages
+  - Custom Commands
+  - Inserting Images  
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
