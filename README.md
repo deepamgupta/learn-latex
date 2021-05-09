@@ -54,5 +54,15 @@
     - Templates
     - Downloading source code and pdf 
     - Sharing/Collaborating 
+- **LaTeX Tutorial 9  Calculus Notation**
+  - limit
+  - integral
+  - definite integral
+  - displaystye
+  - mathrm
+  - summation
+  - cdot(s)
+  - greek symbols
+  - vector
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
