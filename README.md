@@ -42,5 +42,17 @@
     - Read error messages with line numbers
   - Debugging the code on Local
   - Debugging code on overleaf
+- **LaTeX Tutorial 8 TeXmaker and Overleaf Tips**
+  - Features of Texmaker
+    - Structure tab
+    - Inserting symbols 
+    - `clean` command at the close of Texmaker
+    - Wizards to insert templates, tables, etc.
+    - User-tags
+    - Help: LaTex and Texmaker
+  - Features of Overleaf
+    - Templates
+    - Downloading source code and pdf 
+    - Sharing/Collaborating 
 
 Dhanyawaad🙏 Michelle Krummel for the amazing tutorial.
